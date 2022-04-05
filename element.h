@@ -2,6 +2,8 @@
 
 #include "gtest/gtest.h"
 
+#include <unordered_set>
+
 template <typename T>
 struct element {
   element() {
